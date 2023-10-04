@@ -11,4 +11,4 @@ class Solution:
         if(reverse == x_str):
             return("true")
         else:
-            print("false")
+            print("false")  
